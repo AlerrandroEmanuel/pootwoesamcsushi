@@ -1,0 +1,11 @@
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\bin\Debug\net8.0\BibliotecaConversao_roteiro01.deps.json
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\bin\Debug\net8.0\BibliotecaConversao_roteiro01.dll
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\bin\Debug\net8.0\BibliotecaConversao_roteiro01.pdb
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\obj\Debug\net8.0\BibliotecaConversao_roteiro01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\obj\Debug\net8.0\BibliotecaConversao_roteiro01.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\obj\Debug\net8.0\BibliotecaConversao_roteiro01.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\obj\Debug\net8.0\BibliotecaConversao_roteiro01.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\obj\Debug\net8.0\BibliotecaConversao_roteiro01.dll
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\obj\Debug\net8.0\refint\BibliotecaConversao_roteiro01.dll
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\obj\Debug\net8.0\BibliotecaConversao_roteiro01.pdb
+C:\Users\alunolab\source\repos\BibliotecaConversao_roteiro01\BibliotecaConversao_roteiro01\obj\Debug\net8.0\ref\BibliotecaConversao_roteiro01.dll

@@ -1,0 +1,9 @@
+Sistema de Cadastro de Alunos
+Etapas (Incremental):
+1. Primeiro incremento:
+○ Criar classe Produto com atributos (nome, valor).
+○ Implementar cadastro e exibição de produtos.
+2. Segundo incremento:
+○ Adicionar classe Carrinho (nome do produto, valor produto, valor total).
+○ Associar produto a carrinho.
+○ Exibir o carrinho com cada produto

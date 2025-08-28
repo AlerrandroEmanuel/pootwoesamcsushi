@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alunolab\\source\\repos\\Ex02tbl01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD49071C-20DA-4F50-A1C4-71B4928C8AC3}|Ex02tbl01\\Ex02tbl01.csproj|c:\\users\\alunolab\\source\\repos\\ex02tbl01\\ex02tbl01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD49071C-20DA-4F50-A1C4-71B4928C8AC3}|Ex02tbl01\\Ex02tbl01.csproj|solutionrelative:ex02tbl01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD49071C-20DA-4F50-A1C4-71B4928C8AC3}|Ex02tbl01\\Ex02tbl01.csproj|c:\\users\\alunolab\\source\\repos\\ex02tbl01\\ex02tbl01\\modelo\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD49071C-20DA-4F50-A1C4-71B4928C8AC3}|Ex02tbl01\\Ex02tbl01.csproj|solutionrelative:ex02tbl01\\modelo\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD49071C-20DA-4F50-A1C4-71B4928C8AC3}|Ex02tbl01\\Ex02tbl01.csproj|c:\\users\\alunolab\\source\\repos\\ex02tbl01\\ex02tbl01\\modelo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD49071C-20DA-4F50-A1C4-71B4928C8AC3}|Ex02tbl01\\Ex02tbl01.csproj|solutionrelative:ex02tbl01\\modelo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\alunolab\\source\\repos\\Ex02tbl01\\Ex02tbl01\\modelo\\carrinho.cs",
+              "RelativeDocumentMoniker": "Ex02tbl01\\modelo\\carrinho.cs",
+              "ToolTip": "C:\\Users\\alunolab\\source\\repos\\Ex02tbl01\\Ex02tbl01\\modelo\\carrinho.cs",
+              "RelativeToolTip": "Ex02tbl01\\modelo\\carrinho.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T00:27:43.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "produto.cs",
+              "DocumentMoniker": "C:\\Users\\alunolab\\source\\repos\\Ex02tbl01\\Ex02tbl01\\modelo\\produto.cs",
+              "RelativeDocumentMoniker": "Ex02tbl01\\modelo\\produto.cs",
+              "ToolTip": "C:\\Users\\alunolab\\source\\repos\\Ex02tbl01\\Ex02tbl01\\modelo\\produto.cs",
+              "RelativeToolTip": "Ex02tbl01\\modelo\\produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T00:08:53.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alunolab\\source\\repos\\Ex02tbl01\\Ex02tbl01\\Program.cs",
+              "RelativeDocumentMoniker": "Ex02tbl01\\Program.cs",
+              "ToolTip": "C:\\Users\\alunolab\\source\\repos\\Ex02tbl01\\Ex02tbl01\\Program.cs",
+              "RelativeToolTip": "Ex02tbl01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T00:03:28.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

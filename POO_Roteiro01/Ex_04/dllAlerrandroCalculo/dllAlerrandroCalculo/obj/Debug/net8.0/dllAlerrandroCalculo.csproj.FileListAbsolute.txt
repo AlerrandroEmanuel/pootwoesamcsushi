@@ -1,0 +1,11 @@
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\bin\Debug\net8.0\dllAlerrandroCalculo.deps.json
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\bin\Debug\net8.0\dllAlerrandroCalculo.dll
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\bin\Debug\net8.0\dllAlerrandroCalculo.pdb
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\obj\Debug\net8.0\dllAlerrandroCalculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\obj\Debug\net8.0\dllAlerrandroCalculo.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\obj\Debug\net8.0\dllAlerrandroCalculo.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\obj\Debug\net8.0\dllAlerrandroCalculo.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\obj\Debug\net8.0\dllAlerrandroCalculo.dll
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\obj\Debug\net8.0\refint\dllAlerrandroCalculo.dll
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\obj\Debug\net8.0\dllAlerrandroCalculo.pdb
+C:\Users\alunolab\source\repos\dllAlerrandroCalculo\dllAlerrandroCalculo\obj\Debug\net8.0\ref\dllAlerrandroCalculo.dll

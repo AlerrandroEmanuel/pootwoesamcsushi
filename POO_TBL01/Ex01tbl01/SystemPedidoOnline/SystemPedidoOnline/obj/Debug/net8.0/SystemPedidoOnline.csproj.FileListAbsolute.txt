@@ -1,0 +1,11 @@
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\bin\Debug\net8.0\SystemPedidoOnline.deps.json
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\bin\Debug\net8.0\SystemPedidoOnline.dll
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\bin\Debug\net8.0\SystemPedidoOnline.pdb
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\obj\Debug\net8.0\SystemPedidoOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\obj\Debug\net8.0\SystemPedidoOnline.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\obj\Debug\net8.0\SystemPedidoOnline.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\obj\Debug\net8.0\SystemPedidoOnline.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\obj\Debug\net8.0\SystemPedidoOnline.dll
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\obj\Debug\net8.0\refint\SystemPedidoOnline.dll
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\obj\Debug\net8.0\SystemPedidoOnline.pdb
+C:\Users\alunolab\source\repos\SystemPedidoOnline\SystemPedidoOnline\obj\Debug\net8.0\ref\SystemPedidoOnline.dll

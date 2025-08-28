@@ -1,0 +1,8 @@
+Etapas (seguindo o Cascata):
+1. Definição do problema: O sistema deve cadastrar produtos e usuários.
+2. Análise: Identificar entidades: Pedidos, Produto e Usuario.
+3. Projeto: Criar um diagrama de classes simples com  Produto (nome) e Usuario (nome).
+4. Implementação (C#):
+-> Criar classes Usuários e Produtos.
+-> Criar método para exibir os dados de cada entidade.
+5. Testes: Criar um programa que instancia 1 pedido, 1 produto e 1 usuários, exibindo seus dados.
